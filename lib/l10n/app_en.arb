@@ -1,0 +1,23 @@
+{
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+        "description": "The conventional newborn programmer greeting"
+    },
+		"homePage": "home",
+		"searchPage": "search",
+		"playPage": "再生画面",
+		"myListPage": "my list",
+		"aboutSeikaPage": "About Seika",
+		"howToUsePage": "How to use",
+		"bluetoothPage": "How to connect bluetooth",
+    "since": "Since",
+    "@since": {
+        "description": "Since {YEAR}",
+        "placeholders": {
+            "YEAR": {
+                "example": "2021",
+                "description": "created year"
+            }
+        }
+    }
+}

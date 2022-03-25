@@ -1,0 +1,12 @@
+{
+    "@@locale": "ja",
+    "helloWorld": "こんにちは、世界！",
+    "homePage": "ホーム",
+		"playPage": "再生画面",
+		"searchPage": "検索画面",
+		"myListPage": "マイリスト",
+		"aboutSeikaPage": "聖歌について",
+		"howToUsePage": "アプリの使い方",
+		"bluetoothPage": "Bluetooth接続",
+    "since": "{YEAR}年からやってます"
+}
